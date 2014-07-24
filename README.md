@@ -18,6 +18,6 @@ Sources:
 
 www.makeymakey.com
 
-Knitted with a hacked Brother kh 940 knitting machine with Knittington
+Knitted with a hacked Brother kh 940 knitting machine with Knittington   https://github.com/stg/knittington
 
 Maze generated from http://www.billsgames.com/mazegenerator/
