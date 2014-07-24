@@ -1,9 +1,10 @@
 pattern-keyboard
 ================
-
+This sampler was made for the etextile summercamp swatch exchange 2014  http://etextile-summercamp.org/swatch-exchange/
 Credits: Claire Williams & Wendy Van Wynsberghe
 
-Year of Invention: 2013-2014
+Year of Invention: 2013-2014 This project comes from the Disaster Dinner project, an interactive knitted tablecloth
+
 Description:
 The machine knitted jacquard patterns become a textile keyboard which can interact with all sorts of software that accepts keyboard inputs.
 Connected with a MaKeyMaKey the knitted pattern becomes a  way of experimenting with sound, videos, games etc....
@@ -18,6 +19,8 @@ Sources:
 
 www.makeymakey.com
 
-Knitted with a hacked Brother kh 940 knitting machine with Knittington
+Knitted with a hacked Brother kh 940 knitting machine with Knittington   https://github.com/stg/knittington
 
 Maze generated from http://www.billsgames.com/mazegenerator/
+
+This project has a Free Art License
