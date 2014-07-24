@@ -1,6 +1,6 @@
 pattern-keyboard
 ================
-
+This sampler was made for the etextile summercamp swatch exchange 2014  http://etextile-summercamp.org/swatch-exchange/
 Credits: Claire Williams & Wendy Van Wynsberghe
 
 Year of Invention: 2013-2014 This project comes from the Disaster Dinner project, an interactive knitted tablecloth
