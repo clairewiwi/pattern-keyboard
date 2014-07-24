@@ -11,6 +11,7 @@ The 3 patterns are x2 outputs and x1 ground. The left hand has to touch the patt
 To programme the pattern keyboard you can use  a Python script or Scratch for example.
 To test the pattern keyboard and make it create a sound when a pattern is touched you can upload a script at:
 https://github.com/clairewiwi/pattern-keyboard
+
 Material:  Acrylic & conductive yarn
 
 Sources:
