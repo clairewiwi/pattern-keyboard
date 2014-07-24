@@ -23,4 +23,4 @@ Knitted with a hacked Brother kh 940 knitting machine with Knittington   https:/
 
 Maze generated from http://www.billsgames.com/mazegenerator/
 
-This project has a Free Art Liscence
+This project has a Free Art License
