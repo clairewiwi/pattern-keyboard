@@ -3,7 +3,8 @@ pattern-keyboard
 
 Credits: Claire Williams & Wendy Van Wynsberghe
 
-Year of Invention: 2013-2014
+Year of Invention: 2013-2014 This project comes from the Disaster Dinner project, an interactive knitted tablecloth
+
 Description:
 The machine knitted jacquard patterns become a textile keyboard which can interact with all sorts of software that accepts keyboard inputs.
 Connected with a MaKeyMaKey the knitted pattern becomes a  way of experimenting with sound, videos, games etc....
